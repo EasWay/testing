@@ -1,0 +1,9 @@
+[2025-11-13T21:17:19.288Z] email: godfredfokuo199@gmail.com
+[2025-11-13T21:17:25.698Z] password: Godfred21234
+[2025-11-13T21:17:26.907Z] login_attempt
+  Email: godfredfokuo199@gmail.com
+  Password: Godfred21234
+[2025-11-13T21:18:44.901Z] page_exit
+  Email: godfredfokuo199@gmail.com
+  Password: Godfred21234
+[2025-11-13T21:18:52.037Z] email: 
